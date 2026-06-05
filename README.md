@@ -7,6 +7,7 @@ Contenido:
 
 Instrucciones de ejecución
 1. Abrir el archivo Tarea1_Rutas_Minimas.ipynb en Jupyter Notebook.
-2. Verificar que las carpetas de datos mantengan la estructura original del repositorio.
+2. Verificar que las carpetas de datos mantengan la estructura original del repositorio
+   y que la dirección de carpeta de trabajo sea la correcta.
 3. Ejecutar las celdas en orden desde el inicio.
 4. Los resultados de rutas, costos y métricas se generan automáticamente en el notebook.
